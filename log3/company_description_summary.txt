@@ -1,0 +1,18 @@
+Resource: Resource: Company Name: Microsoft Corporation
+
+Business summary:
+Failed to retrieve data: 429
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations:
+Failed to retrieve data: 429
+
+Instruction: 
+According to the given information, 
+1. Briefly describe the company’s industry,
+2. Highlight core strengths and competitive advantages key products or services,
+3. Identify current industry trends, opportunities, and challenges that influence the company’s strategy,
+4. Outline recent strategic initiatives such as product launches, acquisitions, or new partnerships, and describe the company's response to market conditions. 
+Less than 400 words.
+
+
+Instruction: Summarize the analysis, less than 130 words.

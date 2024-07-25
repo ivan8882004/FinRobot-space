@@ -1,0 +1,356 @@
+Resource: Business summary:
+ Item 1. Business 
+
+Company Background 
+
+The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company&#8217;s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. 
+
+Products 
+
+iPhone 
+
+iPhone &#174; is the Company&#8217;s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 15 Pro, iPhone 15, iPhone 14, iPhone 13 and iPhone SE &#174; . 
+
+Mac 
+
+Mac &#174; is the Company&#8217;s line of personal computers based on its macOS &#174; operating system. The Mac line includes laptops MacBook Air &#174; and MacBook Pro &#174; , as well as desktops iMac &#174; , Mac mini &#174; , Mac Studio &#174; and Mac Pro &#174; . 
+
+iPad 
+
+iPad &#174; is the Company&#8217;s line of multipurpose tablets based on its iPadOS &#174; operating system. The iPad line includes iPad Pro &#174; , iPad Air &#174; , iPad and iPad mini &#174; . 
+
+Wearables, Home and Accessories 
+
+Wearables includes smartwatches and wireless headphones. The Company&#8217;s line of smartwatches, based on its watchOS &#174; operating system, includes Apple Watch Ultra&#8482; 2, Apple Watch &#174; Series 9 and Apple Watch SE &#174; . The Company&#8217;s line of wireless headphones includes AirPods &#174; , AirPods Pro &#174; , AirPods Max&#8482; and Beats &#174; products. 
+
+Home includes Apple TV &#174; , the Company&#8217;s media streaming and gaming device based on its tvOS &#174; operating system, and HomePod &#174; and HomePod mini &#174; , high-fidelity wireless smart speakers. 
+
+Accessories includes Apple-branded and third-party accessories. 
+
+Apple Inc. | 2023 Form 10-K | 1 
+
+Services 
+
+Advertising 
+
+The Company&#8217;s advertising services include third-party licensing arrangements and the Company&#8217;s own advertising platforms. 
+
+AppleCare 
+
+The Company offers a portfolio of fee-based service and support products under the AppleCare &#174; brand. The offerings provide priority access to Apple technical support, access to the global Apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage or theft and loss, depending on the country and type of product. 
+
+Cloud Services 
+
+The Company&#8217;s cloud services store and keep customers&#8217; content up-to-date and available across multiple Apple devices and Windows personal computers. 
+
+Digital Content 
+
+The Company operates various platforms, including the App Store &#174; , that allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts. 
+
+The Company also offers digital content through subscription-based services, including Apple Arcade &#174; , a game subscription service; Apple Fitness+ SM , a personalized fitness service; Apple Music &#174; , which offers users a curated listening experience with on-demand radio stations; Apple News+ &#174; , a subscription news and magazine service; and Apple TV+ &#174; , which offers exclusive original content and live sports. 
+
+Payment Services 
+
+The Company offers payment services, including Apple Card &#174; , a co-branded credit card, and Apple Pay &#174; , a cashless payment service. 
+
+Segments 
+
+The Company manages its business primarily on a geographic basis. The Company&#8217;s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company&#8217;s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company&#8217;s customers and distribution partners and the unique market dynamics of each geographic region. 
+
+Markets and Distribution 
+
+The Company&#8217;s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets. The Company sells its products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force. The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers. During 2023, the Company&#8217;s net sales through its direct and indirect distribution channels accounted for 37% and 63%, respectively, of total net sales. 
+
+Competition 
+
+The markets for the Company&#8217;s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses. Many of the Company&#8217;s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company&#8217;s products and infringing on its intellectual property. 
+
+Apple Inc. | 2023 Form 10-K | 2 
+
+The Company&#8217;s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation. 
+
+The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases. In addition, some of the Company&#8217;s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. The Company&#8217;s services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications. The Company faces significant competition as competitors imitate the Company&#8217;s product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer. 
+
+Supply of Components 
+
+Although most components essential to the Company&#8217;s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company also competes for various components with other participants in the markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing fluctuations. 
+
+The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until the suppliers&#8217; yields have matured or their manufacturing capacities have increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company&#8217;s requirements. 
+
+The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the Company will be able to extend or renew these agreements on similar terms, or at all. 
+
+Research and Development 
+
+Because the industries in which the Company competes are characterized by rapid technological advances, the Company&#8217;s ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace. The Company continues to develop new technologies to enhance existing products and services, and to expand the range of its offerings through research and development (&#8220;R&#38;D&#8221;), licensing of intellectual property and acquisition of third-party businesses and technology. 
+
+Intellectual Property 
+
+The Company currently holds a broad collection of intellectual property rights relating to certain aspects of its hardware devices, accessories, software and services. This includes patents, designs, copyrights, trademarks and other forms of intellectual property rights in the U.S. and various foreign countries. Although the Company believes the ownership of such intellectual property rights is an important factor in differentiating its business and that its success does depend in part on such ownership, the Company relies primarily on the innovative skills, technical competence and marketing abilities of its personnel. 
+
+The Company regularly files patent, design, copyright and trademark applications to protect innovations arising from its research, development, design and marketing, and is currently pursuing thousands of applications around the world. Over time, the Company has accumulated a large portfolio of issued and registered intellectual property rights around the world. No single intellectual property right is solely responsible for protecting the Company&#8217;s products and services. The Company believes the duration of its intellectual property rights is adequate relative to the expected lives of its products and services. 
+
+In addition to Company-owned intellectual property, many of the Company&#8217;s products and services are designed to include intellectual property owned by third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company&#8217;s products, processes and services. While the Company has generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all. 
+
+Apple Inc. | 2023 Form 10-K | 3 
+
+Business Seasonality and Product Introductions 
+
+The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company&#8217;s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction. 
+
+Human Capital 
+
+The Company believes it has a talented, motivated and dedicated team, and works to create an inclusive, safe and supportive environment for all of its team members. As of September 30, 2023, the Company had approximately 161,000 full-time equivalent employees. 
+
+Workplace Practices and Policies 
+
+The Company is an equal opportunity employer committed to inclusion and diversity and to providing a workplace free of harassment or discrimination. 
+
+Compensation and Benefits 
+
+The Company believes that compensation should be competitive and equitable, and should enable employees to share in the Company&#8217;s success. The Company recognizes its people are most likely to thrive when they have the resources to meet their needs and the time and support to succeed in their professional and personal lives. In support of this, the Company offers a wide variety of benefits for employees around the world and invests in tools and resources that are designed to support employees&#8217; individual growth and development. 
+
+Inclusion and Diversity 
+
+The Company is committed to its vision to build and sustain a more inclusive workforce that is representative of the communities it serves. The Company continues to work to increase diverse representation at every level, foster an inclusive culture, and support equitable pay and access to opportunity for all employees. 
+
+Engagement 
+
+The Company believes that open and honest communication among team members, managers and leaders helps create an open, collaborative work environment where everyone can contribute, grow and succeed. Team members are encouraged to come to their managers with questions, feedback or concerns, and the Company conducts surveys that gauge employee sentiment in areas like career development, manager performance and inclusivity. 
+
+Health and Safety 
+
+The Company is committed to protecting its team members everywhere it operates. The Company identifies potential workplace risks in order to develop measures to mitigate possible hazards. The Company supports employees with general safety, security and crisis management training, and by putting specific programs in place for those working in potentially high-hazard environments. Additionally, the Company works to protect the safety and security of its team members, visitors and customers through its global security team. 
+
+Available Information 
+
+The Company&#8217;s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), are filed with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;). Such reports and other information filed by the Company with the SEC are available free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx when such reports are available on the SEC&#8217;s website. The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, information on environmental, social and governance matters, and details related to the Company&#8217;s annual meeting of shareholders. The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. Further, the Company&#8217;s references to website URLs are intended to be inactive textual references only. 
+
+Apple Inc. | 2023 Form 10-K | 4 
+
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations:
+ Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K. This Item generally discusses 2023 and 2022 items and year-to-year comparisons between 2023 and 2022. Discussions of 2021 items and year-to-year comparisons between 2022 and 2021 are not included, and can be found in &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in Part II, Item 7 of the Company&#8217;s Annual Report on Form 10-K for the fiscal year ended September 24, 2022. 
+
+Fiscal Period 
+
+The Company&#8217;s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company&#8217;s fiscal quarters with calendar quarters, which occurred in the first quarter of 2023. The Company&#8217;s fiscal year 2023 spanned 53 weeks, whereas fiscal years 2022 and 2021 spanned 52 weeks each. 
+
+Fiscal Year Highlights 
+
+The Company&#8217;s total net sales were $383.3 billion and net income was $97.0 billion during 2023. 
+
+The Company&#8217;s total net sales decreased 3% or $11.0 billion during 2023 compared to 2022. The weakness in foreign currencies relative to the U.S. dollar accounted for more than the entire year-over-year decrease in total net sales, which consisted primarily of lower net sales of Mac and iPhone, partially offset by higher net sales of Services. 
+
+The Company announces new product, service and software offerings at various times during the year. Significant announcements during fiscal year 2023 included the following: 
+
+First Quarter 2023: 
+
+&#8226; iPad and iPad Pro; 
+
+&#8226; Next-generation Apple TV 4K; and 
+
+&#8226; MLS Season Pass, a Major League Soccer subscription streaming service. 
+
+Second Quarter 2023: 
+
+&#8226; MacBook Pro 14&#8221;, MacBook Pro 16&#8221; and Mac mini; and 
+
+&#8226; Second-generation HomePod. 
+
+Third Quarter 2023: 
+
+&#8226; MacBook Air 15&#8221;, Mac Studio and Mac Pro; 
+
+&#8226; Apple Vision Pro&#8482;, the Company&#8217;s first spatial computer featuring its new visionOS&#8482;, expected to be available in early calendar year 2024; and 
+
+&#8226; iOS 17, macOS Sonoma, iPadOS 17, tvOS 17 and watchOS 10, updates to the Company&#8217;s operating systems. 
+
+Fourth Quarter 2023: 
+
+&#8226; iPhone 15, iPhone 15 Plus, iPhone 15 Pro and iPhone 15 Pro Max; and 
+
+&#8226; Apple Watch Series 9 and Apple Watch Ultra 2. 
+
+In May 2023, the Company announced a new share repurchase program of up to $90 billion and raised its quarterly dividend from $0.23 to $0.24 per share beginning in May 2023. During 2023, the Company repurchased $76.6 billion of its common stock and paid dividends and dividend equivalents of $15.0 billion. 
+
+Macroeconomic Conditions 
+
+Macroeconomic conditions, including inflation, changes in interest rates, and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company&#8217;s results of operations and financial condition. 
+
+Apple Inc. | 2023 Form 10-K | 20 
+
+Segment Operating Performance 
+
+The following table shows net sales by reportable segment for 2023, 2022 and 2021 (dollars in millions): 
+
+##TABLE_START 2023 Change 2022 Change 2021 Net sales by reportable segment: Americas $ 162,560 (4) % $ 169,658 11 % $ 153,306 Europe 94,294 (1) % 95,118 7 % 89,307 Greater China 72,559 (2) % 74,200 9 % 68,366 Japan 24,257 (7) % 25,977 (9) % 28,482 Rest of Asia Pacific 29,615 1 % 29,375 11 % 26,356 Total net sales $ 383,285 (3) % $ 394,328 8 % $ 365,817 ##TABLE_END
+
+Americas 
+
+Americas net sales decreased 4% or $7.1 billion during 2023 compared to 2022 due to lower net sales of iPhone and Mac, partially offset by higher net sales of Services. 
+
+Europe 
+
+Europe net sales decreased 1% or $824 million during 2023 compared to 2022. The weakness in foreign currencies relative to the U.S. dollar accounted for more than the entire year-over-year decrease in Europe net sales, which consisted primarily of lower net sales of Mac and Wearables, Home and Accessories, partially offset by higher net sales of iPhone and Services. 
+
+Greater China 
+
+Greater China net sales decreased 2% or $1.6 billion during 2023 compared to 2022. The weakness in the renminbi relative to the U.S. dollar accounted for more than the entire year-over-year decrease in Greater China net sales, which consisted primarily of lower net sales of Mac and iPhone. 
+
+Japan 
+
+Japan net sales decreased 7% or $1.7 billion during 2023 compared to 2022. The weakness in the yen relative to the U.S. dollar accounted for more than the entire year-over-year decrease in Japan net sales, which consisted primarily of lower net sales of iPhone, Wearables, Home and Accessories and Mac. 
+
+Rest of Asia Pacific 
+
+Rest of Asia Pacific net sales increased 1% or $240 million during 2023 compared to 2022. The weakness in foreign currencies relative to the U.S. dollar had a significantly unfavorable year-over-year impact on Rest of Asia Pacific net sales. The net sales increase consisted of higher net sales of iPhone and Services, partially offset by lower net sales of Mac and iPad. 
+
+Apple Inc. | 2023 Form 10-K | 21 
+
+Products and Services Performance 
+
+The following table shows net sales by category for 2023, 2022 and 2021 (dollars in millions): 
+
+##TABLE_START 2023 Change 2022 Change 2021 Net sales by category: iPhone (1) 
+
+$ 200,583 (2) % $ 205,489 7 % $ 191,973 Mac (1) 
+
+29,357 (27) % 40,177 14 % 35,190 iPad (1) 
+
+28,300 (3) % 29,292 (8) % 31,862 Wearables, Home and Accessories (1) 
+
+39,845 (3) % 41,241 7 % 38,367 Services (2) 
+
+85,200 9 % 78,129 14 % 68,425 Total net sales $ 383,285 (3) % $ 394,328 8 % $ 365,817 ##TABLE_END
+
+(1) Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product. 
+
+(2) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products. 
+
+iPhone 
+
+iPhone net sales decreased 2% or $4.9 billion during 2023 compared to 2022 due to lower net sales of non-Pro iPhone models, partially offset by higher net sales of Pro iPhone models. 
+
+Mac 
+
+Mac net sales decreased 27% or $10.8 billion during 2023 compared to 2022 due primarily to lower net sales of laptops. 
+
+iPad 
+
+iPad net sales decreased 3% or $1.0 billion during 2023 compared to 2022 due primarily to lower net sales of iPad mini and iPad Air, partially offset by the combined net sales of iPad 9th and 10th generation. 
+
+Wearables, Home and Accessories 
+
+Wearables, Home and Accessories net sales decreased 3% or $1.4 billion during 2023 compared to 2022 due primarily to lower net sales of Wearables and Accessories. 
+
+Services 
+
+Services net sales increased 9% or $7.1 billion during 2023 compared to 2022 due to higher net sales across all lines of business. 
+
+Apple Inc. | 2023 Form 10-K | 22 
+
+Gross Margin 
+
+Products and Services gross margin and gross margin percentage for 2023, 2022 and 2021 were as follows (dollars in millions): 
+
+##TABLE_START 2023 2022 2021 Gross margin: Products $ 108,803 $ 114,728 $ 105,126 Services 60,345 56,054 47,710 Total gross margin $ 169,148 $ 170,782 $ 152,836 ##TABLE_END
+
+##TABLE_START Gross margin percentage: Products 36.5 % 36.3 % 35.3 % Services 70.8 % 71.7 % 69.7 % Total gross margin percentage 44.1 % 43.3 % 41.8 % ##TABLE_END
+
+Products Gross Margin 
+
+Products gross margin decreased during 2023 compared to 2022 due to the weakness in foreign currencies relative to the U.S. dollar and lower Products volume, partially offset by cost savings and a different Products mix. 
+
+Products gross margin percentage increased during 2023 compared to 2022 due to cost savings and a different Products mix, partially offset by the weakness in foreign currencies relative to the U.S. dollar and decreased leverage. 
+
+Services Gross Margin 
+
+Services gross margin increased during 2023 compared to 2022 due primarily to higher Services net sales, partially offset by the weakness in foreign currencies relative to the U.S. dollar and higher Services costs. 
+
+Services gross margin percentage decreased during 2023 compared to 2022 due to higher Services costs and the weakness in foreign currencies relative to the U.S. dollar, partially offset by a different Services mix. 
+
+The Company&#8217;s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of this Form 10-K under the heading &#8220;Risk Factors.&#8221; As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure. 
+
+Operating Expenses 
+
+Operating expenses for 2023, 2022 and 2021 were as follows (dollars in millions): 
+
+##TABLE_START 2023 Change 2022 Change 2021 Research and development $ 29,915 14 % $ 26,251 20 % $ 21,914 Percentage of total net sales 8 % 7 % 6 % Selling, general and administrative $ 24,932 (1) % $ 25,094 14 % $ 21,973 Percentage of total net sales 7 % 6 % 6 % Total operating expenses $ 54,847 7 % $ 51,345 17 % $ 43,887 Percentage of total net sales 14 % 13 % 12 % ##TABLE_END
+
+Research and Development 
+
+The year-over-year growth in R&#38;D expense in 2023 was driven primarily by increases in headcount-related expenses. 
+
+Selling, General and Administrative 
+
+Selling, general and administrative expense was relatively flat in 2023 compared to 2022. 
+
+Apple Inc. | 2023 Form 10-K | 23 
+
+Provision for Income Taxes 
+
+Provision for income taxes, effective tax rate and statutory federal income tax rate for 2023, 2022 and 2021 were as follows (dollars in millions): 
+
+##TABLE_START 2023 2022 2021 Provision for income taxes $ 16,741 $ 19,300 $ 14,527 Effective tax rate 14.7 % 16.2 % 13.3 % Statutory federal income tax rate 21 % 21 % 21 % ##TABLE_END
+
+The Company&#8217;s effective tax rate for 2023 and 2022 was lower than the statutory federal income tax rate due primarily to a lower effective tax rate on foreign earnings, the impact of the U.S. federal R&#38;D credit, and tax benefits from share-based compensation, partially offset by state income taxes. 
+
+The Company&#8217;s effective tax rate for 2023 was lower compared to 2022 due primarily to a lower effective tax rate on foreign earnings and the impact of U.S. foreign tax credit regulations issued by the U.S. Department of the Treasury in 2022, partially offset by lower tax benefits from share-based compensation. 
+
+Liquidity and Capital Resources 
+
+The Company believes its balances of cash, cash equivalents and unrestricted marketable securities, which totaled $148.3 billion as of September 30, 2023, along with cash generated by ongoing operations and continued access to debt markets, will be sufficient to satisfy its cash requirements and capital return program over the next 12 months and beyond. 
+
+The Company&#8217;s material cash requirements include the following contractual obligations: 
+
+Debt 
+
+As of September 30, 2023, the Company had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of $106.6 billion (collectively the &#8220;Notes&#8221;), with $9.9 billion payable within 12 months. Future interest payments associated with the Notes total $41.1 billion, with $2.9 billion payable within 12 months. 
+
+The Company also issues unsecured short-term promissory notes pursuant to a commercial paper program. As of September 30, 2023, the Company had $6.0 billion of commercial paper outstanding, all of which was payable within 12 months. 
+
+Leases 
+
+The Company has lease arrangements for certain equipment and facilities, including corporate, data center, manufacturing and retail space. As of September 30, 2023, the Company had fixed lease payment obligations of $15.8 billion, with $2.0 billion payable within 12 months. 
+
+Manufacturing Purchase Obligations 
+
+The Company utilizes several outsourcing partners to manufacture subassemblies for the Company&#8217;s products and to perform final assembly and testing of finished products. The Company also obtains individual components for its products from a wide variety of individual suppliers. As of September 30, 2023, the Company had manufacturing purchase obligations of $53.1 billion, with $52.9 billion payable within 12 months. The Company&#8217;s manufacturing purchase obligations are primarily noncancelable. 
+
+Other Purchase Obligations 
+
+The Company&#8217;s other purchase obligations primarily consist of noncancelable obligations to acquire capital assets, including assets related to product manufacturing, and noncancelable obligations related to supplier arrangements, licensed intellectual property and content, and distribution rights. As of September 30, 2023, the Company had other purchase obligations of $21.9 billion, with $5.6 billion payable within 12 months. 
+
+Deemed Repatriation Tax Payable 
+
+As of September 30, 2023, the balance of the deemed repatriation tax payable imposed by the U.S. Tax Cuts and Jobs Act of 2017 (the &#8220;Act&#8221;) was $22.0 billion, with $6.5 billion expected to be paid within 12 months. 
+
+Apple Inc. | 2023 Form 10-K | 24 
+
+Capital Return Program 
+
+In addition to its contractual cash requirements, the Company has an authorized share repurchase program. The program does not obligate the Company to acquire a minimum amount of shares. As of September 30, 2023, the Company&#8217;s quarterly cash dividend was $0.24 per share. The Company intends to increase its dividend on an annual basis, subject to declaration by the Board of Directors. 
+
+Critical Accounting Estimates 
+
+The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles (&#8220;GAAP&#8221;) and the Company&#8217;s discussion and analysis of its financial condition and operating results require the Company&#8217;s management to make judgments, assumptions and estimates that affect the amounts reported. Note 1, &#8220;Summary of Significant Accounting Policies&#8221; of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K describes the significant accounting policies and methods used in the preparation of the Company&#8217;s consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
+
+Uncertain Tax Positions 
+
+The Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. The evaluation of the Company&#8217;s uncertain tax positions involves significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws, including the Act and matters related to the allocation of international taxation rights between countries. Although management believes the Company&#8217;s reserves are reasonable, no assurance can be given that the final outcome of these uncertainties will not be different from that which is reflected in the Company&#8217;s reserves. Reserves are adjusted considering changing facts and circumstances, such as the closing of a tax examination. Resolution of these uncertainties in a manner inconsistent with management&#8217;s expectations could have a material impact on the Company&#8217;s financial condition and operating results. 
+
+Legal and Other Contingencies 
+
+The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment. Resolution of legal matters in a manner inconsistent with management&#8217;s expectations could have a material impact on the Company&#8217;s financial condition and operating results. 
+
+Apple Inc. | 2023 Form 10-K | 25 
+
+
+
+Instruction: 
+According to the given information, describe the performance highlights per business of the company. 
+Each business description should contain one sentence of a summarization and one sentence of explanation. 
+Less than 130 words.

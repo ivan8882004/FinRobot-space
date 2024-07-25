@@ -1,0 +1,8 @@
+Resource: Company Name: Microsoft Corporation
+
+Risk factors:
+Failed to retrieve data: 429
+
+
+
+Instruction: According to the given information, summarize the top 3 key risks of the company. Less than 100 words.
